@@ -1,0 +1,7 @@
+C:\Users\Husey\source\repos\StringDataType\StringDataType\bin\Debug\StringDataType.exe.config
+C:\Users\Husey\source\repos\StringDataType\StringDataType\bin\Debug\StringDataType.exe
+C:\Users\Husey\source\repos\StringDataType\StringDataType\bin\Debug\StringDataType.pdb
+C:\Users\Husey\source\repos\StringDataType\StringDataType\obj\Debug\StringDataType.csprojAssemblyReference.cache
+C:\Users\Husey\source\repos\StringDataType\StringDataType\obj\Debug\StringDataType.csproj.CoreCompileInputs.cache
+C:\Users\Husey\source\repos\StringDataType\StringDataType\obj\Debug\StringDataType.exe
+C:\Users\Husey\source\repos\StringDataType\StringDataType\obj\Debug\StringDataType.pdb
